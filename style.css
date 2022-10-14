@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 7px;
+    line-height: 150%;
+    color: #000;
+    margin: 0;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 72px;
+}
